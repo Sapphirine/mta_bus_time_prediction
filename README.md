@@ -1,4 +1,9 @@
-# busprediction
+# mta_but_time_prediction
+
+Group Name: MTA Bus Time Prediction
+Group ID: 201612-16
+UNI: mh3560, xw2401
+
 
 The repository contains code for both front end android APP and backend python flask server. 
 
