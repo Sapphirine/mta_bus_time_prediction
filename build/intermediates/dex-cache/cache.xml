@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-ee7685821456b7b10f0f46283085050cf37f2ba7.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta4/739e00dea1f0ac04fdb9b6160d667e23cc50a791/retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta4-597113f645a367bc087ea18881e4e74922c4a28c.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/classes-2be75d717094f567a2a9c4c037fb4836685e4aa2.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta4/de5935a367ba5e343e9df786ac8fc0c7d52b5f0c/converter-gson-2.0.0-beta4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta4-acc7d0a82731c52ef187abe576be37bb2fd3f266.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/classes-77213278addf850d468b44855d178a8da30b4677.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/exploded-aar/com.github.rahatarmanahmed/circularprogressview/2.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="83546b0a7a55c89fcaa55ff282812a4e052e81fe">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/classes-3da5ed58401f5f3ad7e886043ac86dee3572d44e.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/classes-b06b82c5fdea62c18ecdf27067a001fc865153ef.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/classes-70b0a847bc13df3c8a9f710e6ec693f0641ac7a4.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/okio-1.6.0-947291b265773ce58a93f4d87c88bc498cc2bbb7.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/classes-2c64afbcb0ebde96e032a41428667a38e5164169.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/gson-2.4-d04062254ffb4c37a1d53fc75f0be8ceba68e15d.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/classes-879bd91c5f2c6662630e663aef384dc3d4a0ee79.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/classes-b230d250a3849e80454c8f4533e9e815190105c6.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/classes-b83bd7b265246abbcf89f6da0b8a64a29f059c9d.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.0.4/4f7392b86e064f3f6da06977f54c21a48e6b6871/parceler-api-1.0.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4f7392b86e064f3f6da06977f54c21a48e6b6871">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/parceler-api-1.0.4-4a43e2f701ee53df91adc3b4b21b8862b3e962ad.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/classes-279f7436d292e36810ffc5c94b8c2d5268b3b547.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-f9e34cdcff1655e87db66867fb1289ceab905d22.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/exploded-aar/com.akexorcist/googledirectionlibrary/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c4f62b5874f45a6fd3617fa6447714adb7a72a7">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/classes-1a7fa75a7332446b7da031b3ad850290dc0f77ff.jar" />
+    </item>
+    <item
+        jar="/Users/huangm26/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/huangm26/AndroidStudioProjects/busPrediction/app/build/intermediates/pre-dexed/debug/okhttp-3.0.1-6c57f92cd8ef7119f6f12d3b89930ee889529971.jar" />
+    </item>
+
+</items>
